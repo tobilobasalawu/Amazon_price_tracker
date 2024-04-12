@@ -2,9 +2,9 @@
 This is a Python code that tracks the price of an item on Amazon and sends an email notification if the price drops below my desired amount.
 
 # Technologies
-Web Scraping
-Email Notification
-Customisable
+• Web Scraping
+• Email Notification
+• Customisable
 
 # Usage
 Update the URL variable in amazon_price_tracker.py with the URL of the product you want to track on Amazon.
