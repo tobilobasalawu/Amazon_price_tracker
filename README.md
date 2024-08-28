@@ -1,4 +1,4 @@
-# Amazon_price_tracker 💹
+# Amazon_price_tracker 
 This is a Python code that tracks the price of an item on Amazon and sends an email notification if the price drops below my desired amount.
 
 # Technologies
